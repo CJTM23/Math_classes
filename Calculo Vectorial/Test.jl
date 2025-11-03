@@ -1,6 +1,6 @@
 using Plots   # librería para gráficos
 
-# Definimos la función
+# Definimos la funcion
 f(x, y) = sin(x) * cos(y)
 
 # Rango de valores
