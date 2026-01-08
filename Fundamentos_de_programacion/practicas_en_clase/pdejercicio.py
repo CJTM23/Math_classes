@@ -14,7 +14,7 @@ print(df.columns)
 #df=df.groupby(["department","job_level"]).agg({
 #"monthly_salary":["mean","sum"],
 #"employee_name":["count"]
-#})
+#})d
 
 #df.to_excel("reporte.xlsx")
 # df=df.sort_values("monthly_salary",ascending=False)
